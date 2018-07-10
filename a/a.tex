@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{import}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage[xindy]{glossaries}
+\makenoidxglossaries
+
+\input{glossary/glossary}
+
+\begin{document}
+\emph{Use all available information to determine answers relating to \textbf{quasars, AGNs, galaxy clusters, and groups of galaxies}, including star formation, massive and \textbf{supermassive} black holes, galactic structure, globular clusters, Type Ia and Type II supernovae, eclipsing binaries and X-ray binaries}.
+
+\input{galaxies/galaxies}
+
+\glsaddall
+\printnoidxglossaries
+\end{document}
