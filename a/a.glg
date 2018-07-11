@@ -1,0 +1,30 @@
+;; This logfile was generated automatically by `xindy'
+;; at 10.07.2018  18:32:08
+;; Indexstyle: "/var/folders/j4/53y5qlm51h11qb1scgrp7fq00000gn/T/u9oK646pyG", Rawindex: "/var/folders/j4/53y5qlm51h11qb1scgrp7fq00000gn/T/j04ujJfIno", Output: "a.gls"
+
+
+Building indexentry-tree:
+Hierdepth of index is :TREE
+
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+
+Forming letter-groups:
+Letter-group: "¨ÐÃÈ¤ÃÚ—" -> "I"
+Letter-group: "€„ÐÃ´àÚ— »€¼¨Úà—" -> "A"
+Letter-group: "€´€ëí ¤€Ë€ÐÐ»—¼Ú" -> "G"
+Letter-group: "´Ã„à´€Ë †´àÐÚ—Ë" -> "G"
+Letter-group: "€´€†Ú¨† È´€¼—" -> "G"
+Letter-group: "ÃÈ—¼ †´àÐÚ—Ë" -> "O"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "€„ÐÃ´àÚ— »€¼¨Úà—" -> "A"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "€´€†Ú¨† È´€¼—" -> "G"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "¨ÐÃÈ¤ÃÚ—" -> "I"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "ÃÈ—¼ †´àÐÚ—Ë" -> "O"

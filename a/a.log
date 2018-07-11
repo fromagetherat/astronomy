@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 JUL 2018 16:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 JUL 2018 18:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,7 +392,13 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 ty
 Package: glossary-tree 2017/01/19 v4.29 (NLCT)
 \glstreeindent=\skip62
-)) (./glossary/glossary.tex) (./a.aux)
+))
+\glswrite=\write3
+\glo@main@file=\write4
+\openout4 = `a.glo'.
+
+Package glossaries Info: Writing glossary file a.glo on input line 10.
+ (./glossary/glossary.tex) (./a.aux)
 \openout1 = `a.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -508,6 +514,8 @@ Underfull \vbox (badness 10000) detected at line 43
 
 [1
 
+\openout3 = `a.xdy'.
+
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \vbox (badness 10000) detected at line 70
  []
@@ -521,45 +529,41 @@ Underfull \vbox (badness 10000) detected at line 70
 File: galaxies/spiral/spiral-galaxies.jpg Graphic file (type jpg)
  <use galaxies/spiral/spiral-galaxies.jpg>
 Package pdftex.def Info: galaxies/spiral/spiral-galaxies.jpg used on input line
- 28.
+ 65.
 (pdftex.def)             Requested size: 250.93689pt x 126.72313pt.
 File: galaxies/spiral/bar.png Graphic file (type png)
 
 <use galaxies/spiral/bar.png>
-Package pdftex.def Info: galaxies/spiral/bar.png used on input line 28.
+Package pdftex.def Info: galaxies/spiral/bar.png used on input line 65.
 (pdftex.def)             Requested size: 131.9928pt x 170.63707pt.
  [2]
-Underfull \vbox (badness 10000) detected at line 28
+Underfull \vbox (badness 10000) detected at line 65
  []
 
-
-Overfull \vbox (0.11063pt too high) has occurred while \output is active []
-
-
-[3 <./galaxies/spiral/spiral-galaxies.jpg> <./galaxies/spiral/bar.png>]))
-[4] (./a.aux) ) 
+[3 <./galaxies/spiral/spiral-galaxies.jpg> <./galaxies/spiral/bar.png>]
+[4])) (./a.gls [5]) [6] (./a.aux) ) 
 Here is how much of TeX's memory you used:
- 10230 strings out of 492995
- 173026 string characters out of 6132704
- 312789 words of memory out of 5000000
- 13594 multiletter control sequences out of 15000+600000
+ 10284 strings out of 492995
+ 174065 string characters out of 6132704
+ 338229 words of memory out of 5000000
+ 13643 multiletter control sequences out of 15000+600000
  6317 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,14n,47p,1934b,756s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmbxti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
-pfb>
-Output written on a.pdf (4 pages, 290298 bytes).
+ 45i,14n,41p,1929b,756s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmti10.pfb>
+Output written on a.pdf (6 pages, 296568 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 62 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
