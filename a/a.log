@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 JUL 2018 19:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 JUL 2018 16:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,23 +507,43 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./galaxies/galaxies.tex (./galaxies/elliptical/elliptical.tex
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd)
-Underfull \vbox (badness 10000) detected at line 43
- []
+(./galaxies/galaxies.tex (./galaxies/anatomy/anatomy.tex
+<galaxies/anatomy/pic.jpg, id=1, 150.5625pt x 75.4017pt>
+File: galaxies/anatomy/pic.jpg Graphic file (type jpg)
 
-[1
+<use galaxies/anatomy/pic.jpg>
+Package pdftex.def Info: galaxies/anatomy/pic.jpg used on input line 2.
+(pdftex.def)             Requested size: 301.12424pt x 150.80301pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+ [1
 
 \openout3 = `a.xdy'.
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \vbox (badness 10000) detected at line 70
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./galax
+ies/anatomy/pic.jpg>] [2]) <galaxies/fork.png, id=17, 803.0pt x 444.66125pt>
+File: galaxies/fork.png Graphic file (type png)
+
+<use galaxies/fork.png>
+Package pdftex.def Info: galaxies/fork.png used on input line 8.
+(pdftex.def)             Requested size: 321.1943pt x 177.86134pt.
+ (./galaxies/elliptical/elliptical.tex
+Underfull \vbox (badness 10000) detected at line 43
  []
 
-) (./galaxies/spiral/spiral.tex
-<galaxies/spiral/spiral-galaxies.jpg, id=15, 1003.75pt x 506.89375pt>
+[3 <./galaxies/fork.png (PNG copy)>]
+Underfull \vbox (badness 10000) detected at line 72
+ []
+
+[4]) [5] (./galaxies/spiral/spiral.tex
+<galaxies/spiral/spiral-galaxies.jpg, id=29, 1003.75pt x 506.89375pt>
 <use galaxies/spiral/spiral-galaxies.jpg>
-<galaxies/spiral/bar.png, id=16, 263.98625pt x 341.275pt>
+<galaxies/spiral/bar.png, id=30, 263.98625pt x 341.275pt>
 <use galaxies/spiral/bar.png> <use galaxies/spiral/spiral-galaxies.jpg>
 <use galaxies/spiral/bar.png>
 File: galaxies/spiral/spiral-galaxies.jpg Graphic file (type jpg)
@@ -536,34 +556,44 @@ File: galaxies/spiral/bar.png Graphic file (type png)
 <use galaxies/spiral/bar.png>
 Package pdftex.def Info: galaxies/spiral/bar.png used on input line 65.
 (pdftex.def)             Requested size: 131.9928pt x 170.63707pt.
- [2]
+
 Underfull \vbox (badness 10000) detected at line 65
  []
 
-[3 <./galaxies/spiral/spiral-galaxies.jpg> <./galaxies/spiral/bar.png>]
-[4])) (./a.gls [5]) [6] (./a.aux) ) 
+[6 <./galaxies/spiral/spiral-galaxies.jpg> <./galaxies/spiral/bar.png>]
+[7]) [8] (./galaxies/lenticular/lenticular.tex
+Underfull \hbox (badness 2913) in paragraph at lines 41--41
+[]\OT1/cmr/m/n/10 Mergers are un-able to ac-count for the off-set from the
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 41
+ []
+
+[9]) [10] (./galaxies/globular-clusters/globular.tex) [11]
+(./galaxies/tully-fisher/tully-fisher.tex)) (./a.gls [12]) [13] (./a.aux) ) 
 Here is how much of TeX's memory you used:
- 10284 strings out of 492995
- 174065 string characters out of 6132704
- 338229 words of memory out of 5000000
- 13643 multiletter control sequences out of 15000+600000
+ 10351 strings out of 492995
+ 175660 string characters out of 6132704
+ 337997 words of memory out of 5000000
+ 13692 multiletter control sequences out of 15000+600000
  6317 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,14n,41p,1929b,756s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmti10.pfb>
-Output written on a.pdf (6 pages, 296568 bytes).
+ 45i,14n,41p,1929b,754s stack positions out of 5000i,500n,10000p,200000b,80000s
+</us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on a.pdf (13 pages, 514416 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

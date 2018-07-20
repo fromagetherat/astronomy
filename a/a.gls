@@ -25,23 +25,26 @@
 \begin{theglossary}\glossaryheader
 \glsgroupheading{A}\relax\glsresetentrylist
 \glossentry{absolute magnitude}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{2}\delimN 
-\glsXpageXglsnumberformat{}{5}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{3}\delimN 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
 \glsgroupheading{G}\relax\glsresetentrylist
 \glossentry{galactic plane}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{5}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{5}\delimN 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
 \glossentry{galaxy harassment}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{2}\delimN 
-\glsXpageXglsnumberformat{}{5}}}\relax\glsresetentrylist
-\glossentry{globular cluster}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{5}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{globular cluster}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}\delimN 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
 \glsgroupheading{I}\relax\glsresetentrylist
 \glossentry{isophote}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{1}\delimN 
-\glsXpageXglsnumberformat{}{5}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{2}\delimN 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{M}\relax\glsresetentrylist
+\glossentry{mass segregation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
 \glsgroupheading{O}\relax\glsresetentrylist
 \glossentry{open cluster}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{5}}}%
+\glsXpageXglsnumberformat{}{9}}}%
 \end{theglossary}\glossarypostamble
