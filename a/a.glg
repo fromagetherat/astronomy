@@ -1,11 +1,14 @@
 ;; This logfile was generated automatically by `xindy'
-;; at 14.07.2018  16:21:18
-;; Indexstyle: "/var/folders/j4/53y5qlm51h11qb1scgrp7fq00000gn/T/TkTvM56UMi", Rawindex: "/var/folders/j4/53y5qlm51h11qb1scgrp7fq00000gn/T/YaHcUs_YZt", Output: "a.gls"
+;; at 01.08.2018  21:31:28
+;; Indexstyle: "/var/folders/j4/53y5qlm51h11qb1scgrp7fq00000gn/T/SJqmHFRhTl", Rawindex: "/var/folders/j4/53y5qlm51h11qb1scgrp7fq00000gn/T/uTM9ZxH1R2", Output: "a.gls"
 
 
 Building indexentry-tree:
 Hierdepth of index is :TREE
 
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
@@ -21,13 +24,20 @@ Letter-group: "€´€ëí ¤€Ë€ÐÐ»—¼Ú" -> "G"
 Letter-group: "´Ã„à´€Ë †´àÐÚ—Ë" -> "G"
 Letter-group: "€´€†Ú¨† È´€¼—" -> "G"
 Letter-group: "»€ÐÐ Ð—Ë—€Ú¨Ã¼" -> "M"
+Letter-group: "€¨€„€Ú¨† —ëÈ€¼Ð¨Ã¼" -> "A"
+Letter-group: "†¤€¼Ë€Ð—®¤€Ë ´¨»¨Ú" -> "C"
+Letter-group: "´¨¤Ú †àËå—" -> "L"
 Letter-group: "ÃÈ—¼ †´àÐÚ—Ë" -> "O"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "€„ÐÃ´àÚ— »€¼¨Úà—" -> "A"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "†¤€¼Ë€Ð—®¤€Ë ´¨»¨Ú" -> "C"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "€´€†Ú¨† È´€¼—" -> "G"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "¨ÐÃÈ¤ÃÚ—" -> "I"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "´¨¤Ú †àËå—" -> "L"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "»€ÐÐ Ð—Ë—€Ú¨Ã¼" -> "M"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)

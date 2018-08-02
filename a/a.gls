@@ -25,26 +25,38 @@
 \begin{theglossary}\glossaryheader
 \glsgroupheading{A}\relax\glsresetentrylist
 \glossentry{absolute magnitude}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{5}\delimN 
+\glsXpageXglsnumberformat{}{16}}}\relax\glsresetentrylist
+\glossentry{adiabatic expansion}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{16}}}\glsgroupskip
+\glsgroupheading{C}\relax\glsresetentrylist
+\glossentry{Chandrasekhar limit}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{14}\delimR 
+\glsXpageXglsnumberformat{}{16}}}\glsgroupskip
 \glsgroupheading{G}\relax\glsresetentrylist
 \glossentry{galactic plane}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{5}\delimN 
-\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{8}\delimN 
+\glsXpageXglsnumberformat{}{16}}}\relax\glsresetentrylist
 \glossentry{galaxy harassment}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{6}\delimN 
+\glsXpageXglsnumberformat{}{16}}}\relax\glsresetentrylist
 \glossentry{globular cluster}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{7}\delimN 
+\glsXpageXglsnumberformat{}{16}}}\glsgroupskip
 \glsgroupheading{I}\relax\glsresetentrylist
 \glossentry{isophote}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{2}\delimN 
-\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{4}\delimN 
+\glsXpageXglsnumberformat{}{16}}}\glsgroupskip
+\glsgroupheading{L}\relax\glsresetentrylist
+\glossentry{light curve}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{15}\delimN 
+\glsXpageXglsnumberformat{}{16}}}\glsgroupskip
 \glsgroupheading{M}\relax\glsresetentrylist
 \glossentry{mass segregation}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{12}\delimN 
+\glsXpageXglsnumberformat{}{16}}}\glsgroupskip
 \glsgroupheading{O}\relax\glsresetentrylist
 \glossentry{open cluster}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{9}}}%
+\glsXpageXglsnumberformat{}{16}}}%
 \end{theglossary}\glossarypostamble

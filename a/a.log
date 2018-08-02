@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 JUL 2018 16:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 AUG 2018 21:33
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **a.tex
 (./a.tex
@@ -507,7 +506,11 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./galaxies/galaxies.tex (./galaxies/anatomy/anatomy.tex
+(./a.toc)
+\tf@toc=\write5
+\openout5 = `a.toc'.
+
+ (./galaxies/galaxies.tex (./galaxies/anatomy/anatomy.tex
 <galaxies/anatomy/pic.jpg, id=1, 150.5625pt x 75.4017pt>
 File: galaxies/anatomy/pic.jpg Graphic file (type jpg)
 
@@ -532,18 +535,18 @@ File: galaxies/fork.png Graphic file (type png)
 <use galaxies/fork.png>
 Package pdftex.def Info: galaxies/fork.png used on input line 8.
 (pdftex.def)             Requested size: 321.1943pt x 177.86134pt.
- (./galaxies/elliptical/elliptical.tex
+ [3] (./galaxies/elliptical/elliptical.tex
 Underfull \vbox (badness 10000) detected at line 43
  []
 
-[3 <./galaxies/fork.png (PNG copy)>]
+[4 <./galaxies/fork.png (PNG copy)>]
 Underfull \vbox (badness 10000) detected at line 72
  []
 
-[4]) [5] (./galaxies/spiral/spiral.tex
-<galaxies/spiral/spiral-galaxies.jpg, id=29, 1003.75pt x 506.89375pt>
+[5]) [6] (./galaxies/spiral/spiral.tex
+<galaxies/spiral/spiral-galaxies.jpg, id=32, 1003.75pt x 506.89375pt>
 <use galaxies/spiral/spiral-galaxies.jpg>
-<galaxies/spiral/bar.png, id=30, 263.98625pt x 341.275pt>
+<galaxies/spiral/bar.png, id=33, 263.98625pt x 341.275pt>
 <use galaxies/spiral/bar.png> <use galaxies/spiral/spiral-galaxies.jpg>
 <use galaxies/spiral/bar.png>
 File: galaxies/spiral/spiral-galaxies.jpg Graphic file (type jpg)
@@ -560,8 +563,8 @@ Package pdftex.def Info: galaxies/spiral/bar.png used on input line 65.
 Underfull \vbox (badness 10000) detected at line 65
  []
 
-[6 <./galaxies/spiral/spiral-galaxies.jpg> <./galaxies/spiral/bar.png>]
-[7]) [8] (./galaxies/lenticular/lenticular.tex
+[7 <./galaxies/spiral/spiral-galaxies.jpg> <./galaxies/spiral/bar.png>]
+[8]) [9] (./galaxies/lenticular/lenticular.tex
 Underfull \hbox (badness 2913) in paragraph at lines 41--41
 []\OT1/cmr/m/n/10 Mergers are un-able to ac-count for the off-set from the
  []
@@ -570,30 +573,44 @@ Underfull \hbox (badness 2913) in paragraph at lines 41--41
 Underfull \vbox (badness 10000) detected at line 41
  []
 
-[9]) [10] (./galaxies/globular-clusters/globular.tex) [11]
-(./galaxies/tully-fisher/tully-fisher.tex)) (./a.gls [12]) [13] (./a.aux) ) 
+[10]) [11] (./galaxies/globular-clusters/globular.tex) [12]
+(./galaxies/tully-fisher/tully-fisher.tex)) (./supernovae/supernovae.tex
+[13] [14] <supernovae/"Ia curve".png, id=61, 225.09094pt x 161.10187pt>
+File: supernovae/"Ia curve".png Graphic file (type png)
+
+<use supernovae/"Ia curve".png>
+Package pdftex.def Info: supernovae/"Ia curve".png used on input line 70.
+(pdftex.def)             Requested size: 225.09038pt x 161.10147pt.
+ [15 <./supernovae/Ia curve.png (PNG copy)>]
+<supernovae/"II curve".png, id=65, 228.855pt x 150.5625pt>
+File: supernovae/"II curve".png Graphic file (type png)
+
+<use supernovae/"II curve".png>
+Package pdftex.def Info: supernovae/"II curve".png used on input line 98.
+(pdftex.def)             Requested size: 228.85443pt x 150.56212pt.
+) (./a.gls [16 <./supernovae/II curve.png (PNG copy)>] [17]) [18] (./a.aux) ) 
 Here is how much of TeX's memory you used:
- 10351 strings out of 492995
- 175660 string characters out of 6132704
- 337997 words of memory out of 5000000
- 13692 multiletter control sequences out of 15000+600000
+ 10458 strings out of 492995
+ 178499 string characters out of 6132704
+ 340259 words of memory out of 5000000
+ 13790 multiletter control sequences out of 15000+600000
  6317 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,14n,41p,1929b,754s stack positions out of 5000i,500n,10000p,200000b,80000s
-</us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
-local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/lo
-cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on a.pdf (13 pages, 514416 bytes).
+</
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on a.pdf (18 pages, 536632 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

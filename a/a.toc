@@ -1,0 +1,20 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Galactic Anatomy}{1}
+\contentsline {section}{\numberline {2}Properties of Galaxies}{3}
+\contentsline {subsection}{\numberline {2.1}History}{3}
+\contentsline {subsection}{\numberline {2.2}Galaxy Morphological Classification}{3}
+\contentsline {subsubsection}{\numberline {2.2.1}Elliptical Galaxies}{4}
+\contentsline {subsubsection}{\numberline {2.2.2}Dwarf Elliptical Galaxy}{5}
+\contentsline {subsubsection}{\numberline {2.2.3}Spiral Galaxies}{7}
+\contentsline {subsubsection}{\numberline {2.2.4}Lenticular Galaxies}{10}
+\contentsline {section}{\numberline {3}Globular Clusters}{12}
+\contentsline {subsection}{\numberline {3.1}Composition}{12}
+\contentsline {subsection}{\numberline {3.2}Formation}{12}
+\contentsline {section}{\numberline {4}The Tully-Fisher Relation}{13}
+\contentsline {section}{\numberline {5}Supernovae}{13}
+\contentsline {subsection}{\numberline {5.1}Interstellar Impact}{13}
+\contentsline {subsubsection}{\numberline {5.1.1}Heavy Elements (Supernova Nucleosynthesis)}{13}
+\contentsline {subsubsection}{\numberline {5.1.2}Stellar Evolution}{14}
+\contentsline {subsection}{\numberline {5.2}Supernova Taxonomy}{14}
+\contentsline {subsubsection}{\numberline {5.2.1}Type Ia Supernovae}{14}
+\contentsline {subsubsection}{\numberline {5.2.2}Type II Supernovae}{15}
